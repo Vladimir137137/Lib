@@ -1,0 +1,66 @@
+P-CAD Net List Load Errors
+
+======================================================================
+
+Netlist filename: D:\Work\i4t\BIRD\amp.net
+Warning: line 1736
+   * Component VT14 value mismatch between board (TIP142) and netlist file (TIP142T)
+SHORTED NETS:
+
+
+Net List Errors:   0
+Net List Warnings: 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+13-May-21  17:48                                            Page    1
+
