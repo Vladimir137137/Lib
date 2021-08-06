@@ -1,0 +1,66 @@
+P-CAD Net List Load Errors
+
+======================================================================
+
+Netlist filename: D:\Work\i4t\Soft\Bird\BIRD\HW\1.net
+Warning: line 1684
+   * Component L1 of type L1210 loaded with a pattern mismatch between the library (L1210) and netlist file (1210)
+Warning: Net MCU_DAC_1 has less than two nodes.
+Warning: Net MCU_DAC_0 has less than two nodes.
+Warning: Net ADC_LIGHT has less than two nodes.
+Warning: Net VOLUME_UD has less than two nodes.
+Warning: Net VOLUME_CS has less than two nodes.
+Warning: Net MISO has less than two nodes.
+Warning: Net PWR_KEY has less than two nodes.
+Warning: Net USB_SENS has less than two nodes.
+Warning: Net KEY_COLUMN_4 has less than two nodes.
+Warning: Net RCI_1 has less than two nodes.
+Warning: Net RCI_2 has less than two nodes.
+Warning: Net RCI_3 has less than two nodes.
+Warning: Net RCI_4 has less than two nodes.
+Warning: Net DDP has less than two nodes.
+Warning: Net DDM has less than two nodes.
+Warning: Net AUDIO_SW_RELAY has less than two nodes.
+Warning: Net AUDIO_ON_RELAY has less than two nodes.
+Warning: Net USONIC has less than two nodes.
+Warning: Net PWR_HOLD has less than two nodes.
+Warning: Net NET00003 has less than two nodes.
+Warning: Net USONIC_PWR_RELAY has less than two nodes.
+SHORTED NETS:
+
+
+Net List Errors:   0
+Net List Warnings: 22
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+31-Jul-21  15:53                                            Page    1
+
